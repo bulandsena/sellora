@@ -1,0 +1,6 @@
+{
+  "name": "SelloraHub - Digital Marketplace",
+  "description": "SelloraHub is a premier multi-vendor digital marketplace for eBooks, templates, graphics, code, and courses with ₹ INR payments, author dashboards, and English/Hindi/Marathi translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
